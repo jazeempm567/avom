@@ -1308,7 +1308,7 @@ h4 {
 
 /* Button */
 
-.ext-banner-text-inner.show .ext-btn {
+/* .ext-banner-text-inner.show .ext-btn {
     opacity: 1;
     -moz-opacity: 1;
     -webkit-opacity: 1;
@@ -1324,7 +1324,7 @@ h4 {
     filter: alpha(opacity=0);
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     letter-spacing: 2px;
-}
+} */
 
 .ext-banner-text-inner,
 .ext-banner-text-inner.hidden,
