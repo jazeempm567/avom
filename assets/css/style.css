@@ -475,7 +475,7 @@ section {
 .whatsapp-btn:after {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    /* content: "\f232"; */
+    content: "\f101";
     position: absolute;
     left: 16px;
     top: 12px;
